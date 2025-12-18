@@ -1,10 +1,3 @@
-"""bug3.py
-
-Category: Runtime exception
-
-This code will raise a runtime exception (ZeroDivisionError) when dividing by zero.
-"""
-
 
 def compute_ratio(a, b):
     return a / b
